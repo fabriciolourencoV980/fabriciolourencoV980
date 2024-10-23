@@ -5,9 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thelifeoff_fafah/profilecard/?igsh=MWJ2eTN6OTh4a2o2Mw==) 
 <img align="right" src="https://komarev.com/ghpvc/?username=fabriciolourencoV980&color=ff69b4">
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fabriciolourencoV980&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fabriciolourencoV980&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
+<img align="right" width=20% bottom=20px src="https://github.com/user-attachments/assets/dead4e34-82e5-489a-88e4-56cb095ba18d"/>  
 
 ## Tecnologias que eu estudo atualmente: 
 <div style="display: inline block"> <br/>
@@ -17,10 +16,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50"/> <br/>
-          
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50"/> <br/>        
+
           
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
