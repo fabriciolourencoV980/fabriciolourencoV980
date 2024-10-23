@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Fabrício Lourenço 🛸🖖🏽
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thelifeoff_fafah/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thelifeoff_fafah/profilecard/?igsh=MWJ2eTN6OTh4a2o2Mw==)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fabriciolourencoV980&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
