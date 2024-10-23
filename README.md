@@ -6,7 +6,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=fabriciolourencoV980&color=ff69b4">
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fabriciolourencoV980&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
-<img align="right" width=20% bottom=20px src="https://github.com/user-attachments/assets/dead4e34-82e5-489a-88e4-56cb095ba18d"/>  
+
 
 ## Tecnologias que eu estudo atualmente: 
 <div style="display: inline block"> <br/>
