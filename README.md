@@ -1,3 +1,4 @@
+<img align="center" src="https://komarev.com/ghpvc/?username=fabriciolourencoV980&color=ff69b4"><br/>
 
 ### Olá! Eu sou o Fabrício Lourenço 🛸🖖🏽
 
