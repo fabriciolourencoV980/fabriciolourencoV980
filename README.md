@@ -1,5 +1,7 @@
 # Olá! Eu sou o Fabrício Lourenço 🛸🖖🏽 <br/>
 
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/7dad7d15-eddc-4c85-8c37-f5f5b5867339"/>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thelifeoff_fafah/profilecard/?igsh=MWJ2eTN6OTh4a2o2Mw==) 
 <img align="right" src="https://komarev.com/ghpvc/?username=fabriciolourencoV980&color=ff69b4">
 
